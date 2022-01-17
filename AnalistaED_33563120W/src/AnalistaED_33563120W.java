@@ -2,8 +2,9 @@
 import java.util.*;
 /**
  * <h1>EJERCICIO PRÁCTICO EXAMEN EVAL 1 ED</h1>
+ * <h2>TURNO DE EXAMEN B<h2>
  * @author JOSÉ VICENTE FALCÓ 33563120W
- * @version 1.0
+ * @version 1.0 
  */
 public class AnalistaED_33563120W {
 
